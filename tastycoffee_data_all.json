@@ -1,0 +1,657 @@
+{
+  "https://shop.tastycoffee.ru/coffee/christmas-blend-2026?back=%2Fcoffee%3Fpage%3D1": {
+    "name": "Christmas Blend 2026",
+    "price": 819,
+    "url": "https://shop.tastycoffee.ru/coffee/christmas-blend-2026?back=%2Fcoffee%3Fpage%3D1"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-nutty?back=%2Fcoffee%3Fpage%3D1": {
+    "name": "Натти",
+    "price": 729,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-nutty?back=%2Fcoffee%3Fpage%3D1"
+  },
+  "https://shop.tastycoffee.ru/coffee/brazil-cerrado?back=%2Fcoffee%3Fpage%3D1": {
+    "name": "Бразилия Серрадо",
+    "price": 619,
+    "url": "https://shop.tastycoffee.ru/coffee/brazil-cerrado?back=%2Fcoffee%3Fpage%3D1"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-irgacheff-nat?back=%2Fcoffee%3Fpage%3D1": {
+    "name": "Эфиопия Иргачефф",
+    "price": 759,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-irgacheff-nat?back=%2Fcoffee%3Fpage%3D1"
+  },
+  "https://shop.tastycoffee.ru/coffee/black-candy?back=%2Fcoffee%3Fpage%3D1": {
+    "name": "Кэнди",
+    "price": 769,
+    "url": "https://shop.tastycoffee.ru/coffee/black-candy?back=%2Fcoffee%3Fpage%3D1"
+  },
+  "https://shop.tastycoffee.ru/coffee/braziliya-sul-de-minas?back=%2Fcoffee%3Fpage%3D1": {
+    "name": "Бразилия Суль-де-Минас",
+    "price": 759,
+    "url": "https://shop.tastycoffee.ru/coffee/braziliya-sul-de-minas?back=%2Fcoffee%3Fpage%3D1"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-berri?back=%2Fcoffee%3Fpage%3D1": {
+    "name": "Бэрри",
+    "price": 759,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-berri?back=%2Fcoffee%3Fpage%3D1"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-brownie?back=%2Fcoffee%3Fpage%3D1": {
+    "name": "Брауни",
+    "price": 819,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-brownie?back=%2Fcoffee%3Fpage%3D1"
+  },
+  "https://shop.tastycoffee.ru/coffee/colombia-bogota?back=%2Fcoffee%3Fpage%3D1": {
+    "name": "Колумбия Богота",
+    "price": 769,
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-bogota?back=%2Fcoffee%3Fpage%3D1"
+  },
+  "https://shop.tastycoffee.ru/coffee/batch-brew?back=%2Fcoffee%3Fpage%3D1": {
+    "name": "Батч-Брю",
+    "price": 759,
+    "url": "https://shop.tastycoffee.ru/coffee/batch-brew?back=%2Fcoffee%3Fpage%3D1"
+  },
+  "https://shop.tastycoffee.ru/coffee/guatemala-fuego?back=%2Fcoffee%3Fpage%3D1": {
+    "name": "Гватемала Фуэго",
+    "price": 769,
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-fuego?back=%2Fcoffee%3Fpage%3D1"
+  },
+  "https://shop.tastycoffee.ru/coffee/guatemala-santiago?back=%2Fcoffee%3Fpage%3D2": {
+    "name": "Гватемала Сантьяго",
+    "price": 769,
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-santiago?back=%2Fcoffee%3Fpage%3D2"
+  },
+  "https://shop.tastycoffee.ru/coffee/colombia-huila?back=%2Fcoffee%3Fpage%3D2": {
+    "name": "Колумбия Уила",
+    "price": 769,
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-huila?back=%2Fcoffee%3Fpage%3D2"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-frutti?back=%2Fcoffee%3Fpage%3D2": {
+    "name": "Фрутти",
+    "price": 769,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-frutti?back=%2Fcoffee%3Fpage%3D2"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-berri?back=%2Fcoffee%3Fpage%3D2": {
+    "name": "Бэрри",
+    "price": 619,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-berri?back=%2Fcoffee%3Fpage%3D2"
+  },
+  "https://shop.tastycoffee.ru/coffee/ethiopia-guji-nat?back=%2Fcoffee%3Fpage%3D2": {
+    "name": "Эфиопия Гуджи",
+    "price": 859,
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-guji-nat?back=%2Fcoffee%3Fpage%3D2"
+  },
+  "https://shop.tastycoffee.ru/coffee/cleanskin?back=%2Fcoffee%3Fpage%3D2": {
+    "name": "Клин Скин",
+    "price": 679,
+    "url": "https://shop.tastycoffee.ru/coffee/cleanskin?back=%2Fcoffee%3Fpage%3D2"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-rwanda-kigali?back=%2Fcoffee%3Fpage%3D2": {
+    "name": "Руанда Кигали",
+    "price": 769,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-rwanda-kigali?back=%2Fcoffee%3Fpage%3D2"
+  },
+  "https://shop.tastycoffee.ru/coffee/kenya-aa-maunt?back=%2Fcoffee%3Fpage%3D2": {
+    "name": "Кения Маунт",
+    "price": 829,
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-aa-maunt?back=%2Fcoffee%3Fpage%3D2"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-decaf?back=%2Fcoffee%3Fpage%3D2": {
+    "name": "Колумбия Декаф",
+    "price": 949,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-decaf?back=%2Fcoffee%3Fpage%3D2"
+  },
+  "https://shop.tastycoffee.ru/coffee/rwanda-muteteli?back=%2Fcoffee%3Fpage%3D2": {
+    "name": "Руанда Киву",
+    "price": 769,
+    "url": "https://shop.tastycoffee.ru/coffee/rwanda-muteteli?back=%2Fcoffee%3Fpage%3D2"
+  },
+  "https://shop.tastycoffee.ru/coffee/ethiopia-sidamo?back=%2Fcoffee%3Fpage%3D2": {
+    "name": "Эфиопия Сидамо",
+    "price": 829,
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-sidamo?back=%2Fcoffee%3Fpage%3D2"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-berry-30?back=%2Fcoffee%3Fpage%3D2": {
+    "name": "Бэрри",
+    "price": 1669,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-berry-30?back=%2Fcoffee%3Fpage%3D2"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-oromiya?back=%2Fcoffee%3Fpage%3D3": {
+    "name": "Эфиопия Оромия",
+    "price": 819,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-oromiya?back=%2Fcoffee%3Fpage%3D3"
+  },
+  "https://shop.tastycoffee.ru/coffee/costa-rica-san-san-jose?back=%2Fcoffee%3Fpage%3D3": {
+    "name": "Коста-Рика Сан-Хосе",
+    "price": 849,
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-san-san-jose?back=%2Fcoffee%3Fpage%3D3"
+  },
+  "https://shop.tastycoffee.ru/coffee/capsules-berry-al?back=%2Fcoffee%3Fpage%3D3": {
+    "name": "Бэрри",
+    "price": 429,
+    "url": "https://shop.tastycoffee.ru/coffee/capsules-berry-al?back=%2Fcoffee%3Fpage%3D3"
+  },
+  "https://shop.tastycoffee.ru/coffee/capsules-colombia-bogota-al?back=%2Fcoffee%3Fpage%3D3": {
+    "name": "Колумбия Богота",
+    "price": 459,
+    "url": "https://shop.tastycoffee.ru/coffee/capsules-colombia-bogota-al?back=%2Fcoffee%3Fpage%3D3"
+  },
+  "https://shop.tastycoffee.ru/coffee/sumatra-pilihan?back=%2Fcoffee%3Fpage%3D3": {
+    "name": "Индонезия Суматра Гайо",
+    "price": 749,
+    "url": "https://shop.tastycoffee.ru/coffee/sumatra-pilihan?back=%2Fcoffee%3Fpage%3D3"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-rwanda-muteteli?back=%2Fcoffee%3Fpage%3D3": {
+    "name": "Руанда Киву",
+    "price": 659,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-rwanda-muteteli?back=%2Fcoffee%3Fpage%3D3"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-floral?back=%2Fcoffee%3Fpage%3D3": {
+    "name": "Флорал",
+    "price": 799,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-floral?back=%2Fcoffee%3Fpage%3D3"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-colombia-huila?back=%2Fcoffee%3Fpage%3D3": {
+    "name": "Колумбия Уила",
+    "price": 689,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-colombia-huila?back=%2Fcoffee%3Fpage%3D3"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-colombia-decaf?back=%2Fcoffee%3Fpage%3D3": {
+    "name": "Колумбия Декаф",
+    "price": 769,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-colombia-decaf?back=%2Fcoffee%3Fpage%3D3"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-kenya-maunt?back=%2Fcoffee%3Fpage%3D3": {
+    "name": "Кения Маунт",
+    "price": 699,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-kenya-maunt?back=%2Fcoffee%3Fpage%3D3"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-kenya-maunt-30?back=%2Fcoffee%3Fpage%3D3": {
+    "name": "Кения Маунт",
+    "price": 1829,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-kenya-maunt-30?back=%2Fcoffee%3Fpage%3D3"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-ethiopia-sidamo-30?back=%2Fcoffee%3Fpage%3D3": {
+    "name": "Эфиопия Сидамо",
+    "price": 1799,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-ethiopia-sidamo-30?back=%2Fcoffee%3Fpage%3D3"
+  },
+  "https://shop.tastycoffee.ru/coffee/coffee-concentrate-berri?back=%2Fcoffee%3Fpage%3D4": {
+    "name": "Бэрри",
+    "price": 4699,
+    "url": "https://shop.tastycoffee.ru/coffee/coffee-concentrate-berri?back=%2Fcoffee%3Fpage%3D4"
+  },
+  "https://shop.tastycoffee.ru/coffee/guatemala-pampojila?back=%2Fcoffee%3Fpage%3D4": {
+    "name": "Гватемала Пампохила",
+    "price": 1059,
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-pampojila?back=%2Fcoffee%3Fpage%3D4"
+  },
+  "https://shop.tastycoffee.ru/coffee/rwanda-rugali?back=%2Fcoffee%3Fpage%3D4": {
+    "name": "Руанда Ругали",
+    "price": 829,
+    "url": "https://shop.tastycoffee.ru/coffee/rwanda-rugali?back=%2Fcoffee%3Fpage%3D4"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-rwanda-karongi?back=%2Fcoffee%3Fpage%3D4": {
+    "name": "Руанда Каронги",
+    "price": 829,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-rwanda-karongi?back=%2Fcoffee%3Fpage%3D4"
+  },
+  "https://shop.tastycoffee.ru/coffee/yemen-haraz?back=%2Fcoffee%3Fpage%3D4": {
+    "name": "Йемен Хараз",
+    "price": 859,
+    "url": "https://shop.tastycoffee.ru/coffee/yemen-haraz?back=%2Fcoffee%3Fpage%3D4"
+  },
+  "https://shop.tastycoffee.ru/coffee/yemen-khaimah-anaerobic?back=%2Fcoffee%3Fpage%3D4": {
+    "name": "Йемен Хайма Анаэробный",
+    "price": 859,
+    "url": "https://shop.tastycoffee.ru/coffee/yemen-khaimah-anaerobic?back=%2Fcoffee%3Fpage%3D4"
+  },
+  "https://shop.tastycoffee.ru/coffee/colombia-geisha-jardines-del-eden-2025?back=%2Fcoffee%3Fpage%3D4": {
+    "name": "Колумбия Гейша Хардинес Дель Эден",
+    "price": 1579,
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-geisha-jardines-del-eden-2025?back=%2Fcoffee%3Fpage%3D4"
+  },
+  "https://shop.tastycoffee.ru/coffee/rwanda-rugali-rolex?back=%2Fcoffee%3Fpage%3D4": {
+    "name": "Руанда Ругали Ролекс",
+    "price": 1129,
+    "url": "https://shop.tastycoffee.ru/coffee/rwanda-rugali-rolex?back=%2Fcoffee%3Fpage%3D4"
+  },
+  "https://shop.tastycoffee.ru/coffee/rwanda-shiiira?back=%2Fcoffee%3Fpage%3D4": {
+    "name": "Руанда Шийира",
+    "price": 979,
+    "url": "https://shop.tastycoffee.ru/coffee/rwanda-shiiira?back=%2Fcoffee%3Fpage%3D4"
+  },
+  "https://shop.tastycoffee.ru/coffee/filter-guatemala-el-chorro?back=%2Fcoffee%3Fpage%3D4": {
+    "name": "Гватемала Эль Чорро",
+    "price": 1029,
+    "url": "https://shop.tastycoffee.ru/coffee/filter-guatemala-el-chorro?back=%2Fcoffee%3Fpage%3D4"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-guatemala-cielito?back=%2Fcoffee%3Fpage%3D4": {
+    "name": "Гватемала Сиелито",
+    "price": 1009,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-guatemala-cielito?back=%2Fcoffee%3Fpage%3D4"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-kenya-rianyagi?back=%2Fcoffee%3Fpage%3D4": {
+    "name": "Кения Рианьяги",
+    "price": 799,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-kenya-rianyagi?back=%2Fcoffee%3Fpage%3D4"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-costa-rica-esteban-zamora?back=%2Fcoffee%3Fpage%3D5": {
+    "name": "Коста-Рика Эстебан Замора",
+    "price": 879,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-costa-rica-esteban-zamora?back=%2Fcoffee%3Fpage%3D5"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-kenya-ndiaini?back=%2Fcoffee%3Fpage%3D5": {
+    "name": "Кения Ндиаини",
+    "price": 829,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-kenya-ndiaini?back=%2Fcoffee%3Fpage%3D5"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-costa-rica-elmudo?back=%2Fcoffee%3Fpage%3D5": {
+    "name": "Коста-Рика Эль Мудо",
+    "price": 859,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-costa-rica-elmudo?back=%2Fcoffee%3Fpage%3D5"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-costa-rica-vara-blanca?back=%2Fcoffee%3Fpage%3D5": {
+    "name": "Коста-Рика Вара Бланка",
+    "price": 859,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-costa-rica-vara-blanca?back=%2Fcoffee%3Fpage%3D5"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-costa-rica-los-madrigal?back=%2Fcoffee%3Fpage%3D5": {
+    "name": "Коста-Рика Лос Мадригаль",
+    "price": 859,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-costa-rica-los-madrigal?back=%2Fcoffee%3Fpage%3D5"
+  },
+  "https://shop.tastycoffee.ru/coffee/guatemala-adolfo-hernandez?back=%2Fcoffee%3Fpage%3D5": {
+    "name": "Гватемала Адольфо Эрнандес",
+    "price": 1009,
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-adolfo-hernandez?back=%2Fcoffee%3Fpage%3D5"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-guatemala-nuevo-vinas?back=%2Fcoffee%3Fpage%3D5": {
+    "name": "Гватемала Нуэво Виньяс",
+    "price": 1009,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-guatemala-nuevo-vinas?back=%2Fcoffee%3Fpage%3D5"
+  },
+  "https://shop.tastycoffee.ru/coffee/guatemala-la-laguna?back=%2Fcoffee%3Fpage%3D5": {
+    "name": "Гватемала Ла Лагуна",
+    "price": 1049,
+    "url": "https://shop.tastycoffee.ru/coffee/guatemala-la-laguna?back=%2Fcoffee%3Fpage%3D5"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-guatemala-la-idolia?back=%2Fcoffee%3Fpage%3D5": {
+    "name": "Гватемала Ла Идолия",
+    "price": 999,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-guatemala-la-idolia?back=%2Fcoffee%3Fpage%3D5"
+  },
+  "https://shop.tastycoffee.ru/coffee/costa-rica-vista-al-santo?back=%2Fcoffee%3Fpage%3D5": {
+    "name": "Коста-Рика Виста Аль Санто",
+    "price": 1159,
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-vista-al-santo?back=%2Fcoffee%3Fpage%3D5"
+  },
+  "https://shop.tastycoffee.ru/coffee/kenya-marimira?back=%2Fcoffee%3Fpage%3D5": {
+    "name": "Кения Маримира",
+    "price": 1059,
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-marimira?back=%2Fcoffee%3Fpage%3D5"
+  },
+  "https://shop.tastycoffee.ru/coffee/costa-rica-don-eli-funky-2025?back=%2Fcoffee%3Fpage%3D5": {
+    "name": "Коста-Рика Дон Эли Фанки",
+    "price": 1159,
+    "url": "https://shop.tastycoffee.ru/coffee/costa-rica-don-eli-funky-2025?back=%2Fcoffee%3Fpage%3D5"
+  },
+  "https://shop.tastycoffee.ru/coffee/kenya-ndiaini?back=%2Fcoffee%3Fpage%3D6": {
+    "name": "Кения Ндиаини",
+    "price": 1079,
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-ndiaini?back=%2Fcoffee%3Fpage%3D6"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-costa-rica-el-salitre?back=%2Fcoffee%3Fpage%3D6": {
+    "name": "Коста-Рика Эль Салитре",
+    "price": 899,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-costa-rica-el-salitre?back=%2Fcoffee%3Fpage%3D6"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-costa-rica-don-eli-funky?back=%2Fcoffee%3Fpage%3D6": {
+    "name": "Коста-Рика Дон Эли Фанки",
+    "price": 899,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-costa-rica-don-eli-funky?back=%2Fcoffee%3Fpage%3D6"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-costa-rica-tematica?back=%2Fcoffee%3Fpage%3D6": {
+    "name": "Коста-Рика Тематика",
+    "price": 899,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-costa-rica-tematica?back=%2Fcoffee%3Fpage%3D6"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-kenya-gituara?back=%2Fcoffee%3Fpage%3D6": {
+    "name": "Кения Гитуара",
+    "price": 819,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-kenya-gituara?back=%2Fcoffee%3Fpage%3D6"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-ethiopia-mukera-taco?back=%2Fcoffee%3Fpage%3D6": {
+    "name": "Эфиопия Мукера Тако",
+    "price": 859,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-ethiopia-mukera-taco?back=%2Fcoffee%3Fpage%3D6"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-ethiopia-mukera-honey-2025?back=%2Fcoffee%3Fpage%3D6": {
+    "name": "Эфиопия Мукера Хани",
+    "price": 859,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-ethiopia-mukera-honey-2025?back=%2Fcoffee%3Fpage%3D6"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-kenya-mchana?back=%2Fcoffee%3Fpage%3D6": {
+    "name": "Кения Мчана",
+    "price": 849,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-kenya-mchana?back=%2Fcoffee%3Fpage%3D6"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-ethiopia-mukera-east?back=%2Fcoffee%3Fpage%3D6": {
+    "name": "Эфиопия Мукера Ист",
+    "price": 849,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-ethiopia-mukera-east?back=%2Fcoffee%3Fpage%3D6"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-honey?back=%2Fcoffee%3Fpage%3D6": {
+    "name": "Хани",
+    "price": 769,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-honey?back=%2Fcoffee%3Fpage%3D6"
+  },
+  "https://shop.tastycoffee.ru/coffee/kenya-rianyagi?back=%2Fcoffee%3Fpage%3D6": {
+    "name": "Кения Рианьяги",
+    "price": 1029,
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-rianyagi?back=%2Fcoffee%3Fpage%3D6"
+  },
+  "https://shop.tastycoffee.ru/coffee/colombia-luis-calderon-primitivo?back=%2Fcoffee%3Fpage%3D6": {
+    "name": "Колумбия Луис Калдерон",
+    "price": 1359,
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-luis-calderon-primitivo?back=%2Fcoffee%3Fpage%3D6"
+  },
+  "https://shop.tastycoffee.ru/coffee/colombia-el-indio?back=%2Fcoffee%3Fpage%3D7": {
+    "name": "Колумбия Эль Индио",
+    "price": 979,
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-el-indio?back=%2Fcoffee%3Fpage%3D7"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-colombia-la-leona?back=%2Fcoffee%3Fpage%3D7": {
+    "name": "Колумбия Ла Леона",
+    "price": 969,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-colombia-la-leona?back=%2Fcoffee%3Fpage%3D7"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-colombia-decaf-50?back=%2Fcoffee%3Fpage%3D7": {
+    "name": "Колумбия Декаф",
+    "price": 3029,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-colombia-decaf-50?back=%2Fcoffee%3Fpage%3D7"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-berry-50?back=%2Fcoffee%3Fpage%3D7": {
+    "name": "Бэрри",
+    "price": 2579,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-berry-50?back=%2Fcoffee%3Fpage%3D7"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-ethiopia-sidamo-50?back=%2Fcoffee%3Fpage%3D7": {
+    "name": "Эфиопия Сидамо",
+    "price": 2719,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-ethiopia-sidamo-50?back=%2Fcoffee%3Fpage%3D7"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-rwanda-kivu-50?back=%2Fcoffee%3Fpage%3D7": {
+    "name": "Руанда Киву",
+    "price": 2569,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-rwanda-kivu-50?back=%2Fcoffee%3Fpage%3D7"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-kenya-maunt-50?back=%2Fcoffee%3Fpage%3D7": {
+    "name": "Кения Маунт",
+    "price": 2749,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-kenya-maunt-50?back=%2Fcoffee%3Fpage%3D7"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-colombia-huila-50?back=%2Fcoffee%3Fpage%3D7": {
+    "name": "Колумбия Уила",
+    "price": 2629,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-colombia-huila-50?back=%2Fcoffee%3Fpage%3D7"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-indonesia-sumatra-gayo-50?back=%2Fcoffee%3Fpage%3D7": {
+    "name": "Индонезия Суматра Гайо",
+    "price": 2899,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-indonesia-sumatra-gayo-50?back=%2Fcoffee%3Fpage%3D7"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-brazil-tres-pontas?back=%2Fcoffee%3Fpage%3D7": {
+    "name": "Бразилия Трес-Понтас",
+    "price": 869,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-brazil-tres-pontas?back=%2Fcoffee%3Fpage%3D7"
+  },
+  "https://shop.tastycoffee.ru/coffee/kombucha-cascara-2025?back=%2Fcoffee%3Fpage%3D7": {
+    "name": "Kombucha",
+    "price": 819,
+    "url": "https://shop.tastycoffee.ru/coffee/kombucha-cascara-2025?back=%2Fcoffee%3Fpage%3D7"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-funky-2025?back=%2Fcoffee%3Fpage%3D7": {
+    "name": "Фанки",
+    "price": 859,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-funky-2025?back=%2Fcoffee%3Fpage%3D7"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-solomon-getu?back=%2Fcoffee%3Fpage%3D8": {
+    "name": "Эфиопия Соломон Гету",
+    "price": 929,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-solomon-getu?back=%2Fcoffee%3Fpage%3D8"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-geri-anaerobic?back=%2Fcoffee%3Fpage%3D8": {
+    "name": "Эфиопия Гери Анаэробный",
+    "price": 1099,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-geri-anaerobic?back=%2Fcoffee%3Fpage%3D8"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-costa-rica-la-fila?back=%2Fcoffee%3Fpage%3D8": {
+    "name": "Коста-Рика Ла Фила",
+    "price": 1109,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-costa-rica-la-fila?back=%2Fcoffee%3Fpage%3D8"
+  },
+  "https://shop.tastycoffee.ru/coffee/ethiopia-mukera-taco-2025?back=%2Fcoffee%3Fpage%3D8": {
+    "name": "Эфиопия Мукера Тако",
+    "price": 1139,
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-mukera-taco-2025?back=%2Fcoffee%3Fpage%3D8"
+  },
+  "https://shop.tastycoffee.ru/coffee/kenya-gituara?back=%2Fcoffee%3Fpage%3D8": {
+    "name": "Кения Гитуара",
+    "price": 999,
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-gituara?back=%2Fcoffee%3Fpage%3D8"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-uraga?back=%2Fcoffee%3Fpage%3D8": {
+    "name": "Эфиопия Урага",
+    "price": 949,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-uraga?back=%2Fcoffee%3Fpage%3D8"
+  },
+  "https://shop.tastycoffee.ru/coffee/ethiopia-mukera-honey-2025?back=%2Fcoffee%3Fpage%3D8": {
+    "name": "Эфиопия Мукера Хани",
+    "price": 1139,
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-mukera-honey-2025?back=%2Fcoffee%3Fpage%3D8"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-kenya-riakiberu?back=%2Fcoffee%3Fpage%3D8": {
+    "name": "Кения Риакиберу",
+    "price": 799,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-kenya-riakiberu?back=%2Fcoffee%3Fpage%3D8"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-dula-masoria?back=%2Fcoffee%3Fpage%3D8": {
+    "name": "Эфиопия Дула Мазория",
+    "price": 949,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-dula-masoria?back=%2Fcoffee%3Fpage%3D8"
+  },
+  "https://shop.tastycoffee.ru/coffee/ethiopia-mukera-east-2025?back=%2Fcoffee%3Fpage%3D8": {
+    "name": "Эфиопия Мукера Ист",
+    "price": 1139,
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-mukera-east-2025?back=%2Fcoffee%3Fpage%3D8"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-kenya-nyeri-hill?back=%2Fcoffee%3Fpage%3D8": {
+    "name": "Кения Ньери Хилл",
+    "price": 1049,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-kenya-nyeri-hill?back=%2Fcoffee%3Fpage%3D8"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-colombia-inza?back=%2Fcoffee%3Fpage%3D8": {
+    "name": "Колумбия Инза",
+    "price": 979,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-colombia-inza?back=%2Fcoffee%3Fpage%3D8"
+  },
+  "https://shop.tastycoffee.ru/coffee/kenya-riakiberu?back=%2Fcoffee%3Fpage%3D9": {
+    "name": "Кения Риакиберу",
+    "price": 979,
+    "url": "https://shop.tastycoffee.ru/coffee/kenya-riakiberu?back=%2Fcoffee%3Fpage%3D9"
+  },
+  "https://shop.tastycoffee.ru/coffee/ethiopia-mukera-200?back=%2Fcoffee%3Fpage%3D9": {
+    "name": "Эфиопия Мукера 200 часов",
+    "price": 1139,
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-mukera-200?back=%2Fcoffee%3Fpage%3D9"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-kenya-gachata?back=%2Fcoffee%3Fpage%3D9": {
+    "name": "Кения Гачата",
+    "price": 999,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-kenya-gachata?back=%2Fcoffee%3Fpage%3D9"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-mukera-72-hours?back=%2Fcoffee%3Fpage%3D9": {
+    "name": "Эфиопия Мукера 72 часа",
+    "price": 1099,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-mukera-72-hours?back=%2Fcoffee%3Fpage%3D9"
+  },
+  "https://shop.tastycoffee.ru/coffee/ethiopia-mukera-120?back=%2Fcoffee%3Fpage%3D9": {
+    "name": "Эфиопия Мукера 120 часов",
+    "price": 1139,
+    "url": "https://shop.tastycoffee.ru/coffee/ethiopia-mukera-120?back=%2Fcoffee%3Fpage%3D9"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-gotiti?back=%2Fcoffee%3Fpage%3D9": {
+    "name": "Эфиопия Готити",
+    "price": 919,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-ethiopia-gotiti?back=%2Fcoffee%3Fpage%3D9"
+  },
+  "https://shop.tastycoffee.ru/coffee/batch-brew-geisha?back=%2Fcoffee%3Fpage%3D9": {
+    "name": "Батч-Брю Гейша-бленд",
+    "price": 1969,
+    "url": "https://shop.tastycoffee.ru/coffee/batch-brew-geisha?back=%2Fcoffee%3Fpage%3D9"
+  },
+  "https://shop.tastycoffee.ru/coffee/colombia-jairo-archila-peach?back=%2Fcoffee%3Fpage%3D9": {
+    "name": "Колумбия Персик Хайро Арчила",
+    "price": 1449,
+    "url": "https://shop.tastycoffee.ru/coffee/colombia-jairo-archila-peach?back=%2Fcoffee%3Fpage%3D9"
+  },
+  "https://shop.tastycoffee.ru/coffee/instant-coffee-colombia-decaf?back=%2Fcoffee%3Fpage%3D9": {
+    "name": "Колумбия Декаф",
+    "price": 1279,
+    "url": "https://shop.tastycoffee.ru/coffee/instant-coffee-colombia-decaf?back=%2Fcoffee%3Fpage%3D9"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-indonesia-sumatra-gayo-30?back=%2Fcoffee%3Fpage%3D9": {
+    "name": "Индонезия Суматра Гайо",
+    "price": 1969,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-indonesia-sumatra-gayo-30?back=%2Fcoffee%3Fpage%3D9"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-indonesia-sumatra-gayo?back=%2Fcoffee%3Fpage%3D9": {
+    "name": "Индонезия Суматра Гайо",
+    "price": 739,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-indonesia-sumatra-gayo?back=%2Fcoffee%3Fpage%3D9"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-guatemala-santiago-50?back=%2Fcoffee%3Fpage%3D9": {
+    "name": "Гватемала Сантьяго",
+    "price": 2519,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-guatemala-santiago-50?back=%2Fcoffee%3Fpage%3D9"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-guatemala-santiago-30?back=%2Fcoffee%3Fpage%3D10": {
+    "name": "Гватемала Сантьяго",
+    "price": 1719,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-guatemala-santiago-30?back=%2Fcoffee%3Fpage%3D10"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-guatemala-santiago?back=%2Fcoffee%3Fpage%3D10": {
+    "name": "Гватемала Сантьяго",
+    "price": 659,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-guatemala-santiago?back=%2Fcoffee%3Fpage%3D10"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-brazil-sul-de-minas-50?back=%2Fcoffee%3Fpage%3D10": {
+    "name": "Бразилия Суль-де-Минас",
+    "price": 2599,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-brazil-sul-de-minas-50?back=%2Fcoffee%3Fpage%3D10"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-brazil-sul-de-minas-30?back=%2Fcoffee%3Fpage%3D10": {
+    "name": "Бразилия Суль-де-Минас",
+    "price": 1769,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-brazil-sul-de-minas-30?back=%2Fcoffee%3Fpage%3D10"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-brazil-sul-de-minas?back=%2Fcoffee%3Fpage%3D10": {
+    "name": "Бразилия Суль-де-Минас",
+    "price": 669,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-brazil-sul-de-minas?back=%2Fcoffee%3Fpage%3D10"
+  },
+  "https://shop.tastycoffee.ru/coffee/instant-coffee-funky?back=%2Fcoffee%3Fpage%3D10": {
+    "name": "Фанки",
+    "price": 1219,
+    "url": "https://shop.tastycoffee.ru/coffee/instant-coffee-funky?back=%2Fcoffee%3Fpage%3D10"
+  },
+  "https://shop.tastycoffee.ru/coffee/instant-coffee-berry?back=%2Fcoffee%3Fpage%3D10": {
+    "name": "Бэрри",
+    "price": 1039,
+    "url": "https://shop.tastycoffee.ru/coffee/instant-coffee-berry?back=%2Fcoffee%3Fpage%3D10"
+  },
+  "https://shop.tastycoffee.ru/coffee/espresso-kenya-nairobi?back=%2Fcoffee%3Fpage%3D10": {
+    "name": "Кения Найроби",
+    "price": 829,
+    "url": "https://shop.tastycoffee.ru/coffee/espresso-kenya-nairobi?back=%2Fcoffee%3Fpage%3D10"
+  },
+  "https://shop.tastycoffee.ru/coffee/instant-coffee-kenya-maunt?back=%2Fcoffee%3Fpage%3D10": {
+    "name": "Кения Маунт",
+    "price": 1089,
+    "url": "https://shop.tastycoffee.ru/coffee/instant-coffee-kenya-maunt?back=%2Fcoffee%3Fpage%3D10"
+  },
+  "https://shop.tastycoffee.ru/coffee/instant-coffee-ethiopia-sidamo?back=%2Fcoffee%3Fpage%3D10": {
+    "name": "Эфиопия Сидамо",
+    "price": 1089,
+    "url": "https://shop.tastycoffee.ru/coffee/instant-coffee-ethiopia-sidamo?back=%2Fcoffee%3Fpage%3D10"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-rwanda-kivu-30?back=%2Fcoffee%3Fpage%3D10": {
+    "name": "Руанда Киву",
+    "price": 1739,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-rwanda-kivu-30?back=%2Fcoffee%3Fpage%3D10"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-colombia-huila-30?back=%2Fcoffee%3Fpage%3D10": {
+    "name": "Колумбия Уила",
+    "price": 1769,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-colombia-huila-30?back=%2Fcoffee%3Fpage%3D10"
+  },
+  "https://shop.tastycoffee.ru/coffee/drip-coffee-decaf-30?back=%2Fcoffee%3Fpage%3D11": {
+    "name": "Колумбия Декаф",
+    "price": 2019,
+    "url": "https://shop.tastycoffee.ru/coffee/drip-coffee-decaf-30?back=%2Fcoffee%3Fpage%3D11"
+  },
+  "https://shop.tastycoffee.ru/coffee/cold-coffee-cascara?back=%2Fcoffee%3Fpage%3D11": {
+    "name": "Cascara Fizz",
+    "price": 799,
+    "url": "https://shop.tastycoffee.ru/coffee/cold-coffee-cascara?back=%2Fcoffee%3Fpage%3D11"
+  },
+  "https://shop.tastycoffee.ru/coffee/coffee_tonic?back=%2Fcoffee%3Fpage%3D11": {
+    "name": "Coffee Tonic",
+    "price": 829,
+    "url": "https://shop.tastycoffee.ru/coffee/coffee_tonic?back=%2Fcoffee%3Fpage%3D11"
+  },
+  "https://shop.tastycoffee.ru/coffee/green_coffee_lemonade?back=%2Fcoffee%3Fpage%3D11": {
+    "name": "Green Coffee Fizz",
+    "price": 779,
+    "url": "https://shop.tastycoffee.ru/coffee/green_coffee_lemonade?back=%2Fcoffee%3Fpage%3D11"
+  },
+  "https://shop.tastycoffee.ru/coffee/coffee_cola?back=%2Fcoffee%3Fpage%3D11": {
+    "name": "Coffee Cola",
+    "price": 799,
+    "url": "https://shop.tastycoffee.ru/coffee/coffee_cola?back=%2Fcoffee%3Fpage%3D11"
+  },
+  "https://shop.tastycoffee.ru/coffee/balanced-espresso-mono?back=%2Fcoffee%3Fpage%3D11": {
+    "name": "Сбалансированный кофе для эспрессо",
+    "price": 729,
+    "url": "https://shop.tastycoffee.ru/coffee/balanced-espresso-mono?back=%2Fcoffee%3Fpage%3D11"
+  },
+  "https://shop.tastycoffee.ru/coffee/bright-alt-mono?back=%2Fcoffee%3Fpage%3D11": {
+    "name": "Яркий кофе для фильтра",
+    "price": 759,
+    "url": "https://shop.tastycoffee.ru/coffee/bright-alt-mono?back=%2Fcoffee%3Fpage%3D11"
+  },
+  "https://shop.tastycoffee.ru/coffee/bright-espresso-mono?back=%2Fcoffee%3Fpage%3D11": {
+    "name": "Яркий кофе для эспрессо",
+    "price": 759,
+    "url": "https://shop.tastycoffee.ru/coffee/bright-espresso-mono?back=%2Fcoffee%3Fpage%3D11"
+  },
+  "https://shop.tastycoffee.ru/coffee/bright-drip?back=%2Fcoffee%3Fpage%3D11": {
+    "name": "Яркий кофе в дрип-пакетах",
+    "price": 659,
+    "url": "https://shop.tastycoffee.ru/coffee/bright-drip?back=%2Fcoffee%3Fpage%3D11"
+  },
+  "https://shop.tastycoffee.ru/coffee/bright-alt-microlot?back=%2Fcoffee%3Fpage%3D11": {
+    "name": "Яркий микролот для фильтра",
+    "price": 979,
+    "url": "https://shop.tastycoffee.ru/coffee/bright-alt-microlot?back=%2Fcoffee%3Fpage%3D11"
+  },
+  "https://shop.tastycoffee.ru/coffee/bright-espresso-microlot?back=%2Fcoffee%3Fpage%3D11": {
+    "name": "Яркий микролот для эспрессо",
+    "price": 869,
+    "url": "https://shop.tastycoffee.ru/coffee/bright-espresso-microlot?back=%2Fcoffee%3Fpage%3D11"
+  },
+  "https://shop.tastycoffee.ru/coffee/bright-drip-microlot?back=%2Fcoffee%3Fpage%3D11": {
+    "name": "Яркий микролот в дрип-пакетах",
+    "price": 799,
+    "url": "https://shop.tastycoffee.ru/coffee/bright-drip-microlot?back=%2Fcoffee%3Fpage%3D11"
+  }
+}

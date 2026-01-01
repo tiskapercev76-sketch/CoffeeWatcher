@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+lxml
+openpyxl
+openai>=1.0.0
