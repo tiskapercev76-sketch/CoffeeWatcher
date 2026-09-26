@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
+<title>Гоняй лысого — Android Gate 1 Smoke</title>
+<style>
+html,body{margin:0;width:100%;height:100%;background:#1d211d;color:#f4efdb;font-family:Arial,sans-serif;overflow:hidden}
+body{box-sizing:border-box;padding:calc(20px + env(safe-area-inset-top)) 18px calc(20px + env(safe-area-inset-bottom));display:flex;align-items:center;justify-content:center}
+.card{max-width:520px;width:100%;border:3px solid #29261f;background:#d7cfad;color:#1e211c;box-shadow:8px 8px 0 rgba(0,0,0,.35);padding:24px;box-sizing:border-box;transform:rotate(-.5deg)}
+h1{margin:0 0 10px;font-size:34px;line-height:1}
+.badge{display:inline-block;background:#8da25d;border:2px solid #202319;padding:6px 10px;font-weight:700;margin:8px 0 18px}
+p{font-size:17px;line-height:1.35;margin:9px 0}
+button{margin-top:18px;width:100%;padding:16px;border:3px solid #211f19;background:#f0e6be;font-size:18px;font-weight:800}
+#state{font-family:monospace;background:#252820;color:#d8e7a8;padding:10px;margin-top:16px;white-space:pre-wrap}
+</style>
+</head>
+<body>
+<div class="card">
+<h1>ГОНЯЙ ЛЫСОГО</h1>
+<div class="badge">ANDROID GATE 1 · NATIVE SMOKE</div>
+<p>Нативная оболочка запущена. WebView работает локально без интернет-разрешения.</p>
+<p>Системный Back, portrait и Android lifecycle подключены к тому же контракту, который использует игровая Shell.</p>
+<button onclick="togglePause()">ПРОВЕРИТЬ ПАУЗУ</button>
+<div id="state"></div>
+</div>
+<script>
+let paused=false, ticks=0, timer=null;
+const state=document.getElementById('state');
+function render(){state.textContent='paused='+paused+'\nticks='+ticks+'\nvisibility='+document.visibilityState}
+function start(){clearInterval(timer);timer=setInterval(()=>{if(!paused){ticks++;render()}},1000)}
+function togglePause(){paused=!paused;render()}
+window.LysyGateApp={
+ handleBack(){paused=true;render();return true},
+ forcePause(){paused=true;render()}
+};
+window.__LYSY_RUNTIME__={setPaused(v){paused=!!v;render()}};
+document.addEventListener('visibilitychange',()=>{if(document.hidden) paused=true;render()});
+start();render();
+</script>
+</body>
+</html>
