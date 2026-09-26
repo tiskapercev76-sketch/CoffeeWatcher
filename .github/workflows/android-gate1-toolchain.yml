@@ -1,0 +1,104 @@
+name: Android Gate 1 toolchain export
+
+on:
+  push:
+    branches:
+      - android-gate1-build
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Install Android SDK 35
+        shell: bash
+        run: |
+          yes | sdkmanager --licenses >/dev/null || true
+          sdkmanager "platforms;android-35" "build-tools;35.0.0"
+
+      - name: Set up Gradle 8.11.1
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.11.1'
+
+      - name: Warm Android Gradle Plugin cache
+        shell: bash
+        run: |
+          set -euxo pipefail
+          mkdir -p sample/app/src/main/java/com/example/sample
+          cat > sample/settings.gradle <<'EOF'
+          pluginManagement {
+              repositories {
+                  google()
+                  mavenCentral()
+                  gradlePluginPortal()
+              }
+          }
+          dependencyResolutionManagement {
+              repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+              repositories {
+                  google()
+                  mavenCentral()
+              }
+          }
+          rootProject.name = 'sample'
+          include ':app'
+          EOF
+          cat > sample/build.gradle <<'EOF'
+          plugins {
+              id 'com.android.application' version '8.9.2' apply false
+          }
+          EOF
+          cat > sample/app/build.gradle <<'EOF'
+          plugins {
+              id 'com.android.application'
+          }
+          android {
+              namespace 'com.example.sample'
+              compileSdk 35
+              defaultConfig {
+                  applicationId 'com.example.sample'
+                  minSdk 24
+                  targetSdk 35
+                  versionCode 1
+                  versionName '1.0'
+              }
+          }
+          EOF
+          cat > sample/app/src/main/AndroidManifest.xml <<'EOF'
+          <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+              <application android:theme="@android:style/Theme.Material.Light.NoActionBar" />
+          </manifest>
+          EOF
+          gradle -p sample :app:assembleDebug --stacktrace
+
+      - name: Collect portable toolchain
+        shell: bash
+        run: |
+          set -euxo pipefail
+          mkdir -p payload/android-sdk payload/gradle-user-home
+          cp -a "$ANDROID_SDK_ROOT/platforms" payload/android-sdk/
+          cp -a "$ANDROID_SDK_ROOT/build-tools" payload/android-sdk/
+          cp -a "$ANDROID_SDK_ROOT/licenses" payload/android-sdk/ || true
+          cp -a "$HOME/.gradle/caches" payload/gradle-user-home/
+          cp -a "$HOME/.gradle/native" payload/gradle-user-home/ || true
+          GRADLE_BIN="$(readlink -f "$(command -v gradle)")"
+          GRADLE_HOME="$(dirname "$(dirname "$GRADLE_BIN")")"
+          cp -a "$GRADLE_HOME" payload/gradle
+          du -sh payload/* || true
+
+      - name: Upload toolchain
+        uses: actions/upload-artifact@v4
+        with:
+          name: android-gate1-toolchain
+          path: payload
+          compression-level: 6
+          if-no-files-found: error
